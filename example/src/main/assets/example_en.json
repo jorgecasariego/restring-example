@@ -1,0 +1,62 @@
+{
+  "type": "LABEL",
+  "configCode": "MHZ:PRIVATE.EN",
+  "category": "LANGUAGE.SETTING",
+  "data": [
+    {
+      "type": "LABEL",
+      "key": "title.welcome.back",
+      "value": "Welcome back!",
+      "description": "Label for "
+    },
+    {
+      "type": "LABEL",
+      "key": "title.welcome",
+      "value": "Welcome!",
+      "description": "Label for "
+    },
+    {
+      "type": "QUANTITY",
+      "key": "title.hi.message",
+      "conversion": "string",
+      "value": "Hi %1$s!",
+      "description": "Label for show the name of the user"
+    },
+    {
+      "type": "ARRAY",
+      "key": "options_days_of_week",
+      "values": [
+        {
+          "type": "LABEL",
+          "value": "Sunday"
+        },
+        {
+          "type": "LABEL",
+          "value": "Monday"
+        },
+        {
+          "type": "LABEL",
+          "value": "Tuesday"
+        },
+        {
+          "type": "LABEL",
+          "value": "Wednesday"
+        },
+        {
+          "type": "LABEL",
+          "value": "Thursday"
+        },
+        {
+          "type": "LABEL",
+          "value": "Friday"
+        },
+        {
+          "type": "LABEL",
+          "value": "Saturday"
+        }
+
+      ],
+      "description": "Days of the week"
+    }
+  ]
+}

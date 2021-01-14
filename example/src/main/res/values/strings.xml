@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Restring</string>
+    <string name="untranslated"><b>Untranslated</b></string>
+    <string name="title.welcome">Welcome</string>
+    <string name="subtitle">Subtittle</string>
+    <string name="title">Title</string>
+
+    <string-array name="options_days_of_week">
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+    </string-array>
+
+    <string name="text_hi_message">Hi %1$s!</string>
+
+</resources>

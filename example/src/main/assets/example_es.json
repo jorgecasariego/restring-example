@@ -1,0 +1,55 @@
+{
+  "type": "LABEL",
+  "configCode": "MHZ:PRIVATE.ES",
+  "category": "LANGUAGE.SETTING",
+  "data": [
+    {
+      "type": "LABEL",
+      "key": "title.welcome.back",
+      "value": "Bienvenido de vuelta!",
+      "description": "Label for "
+    },
+    {
+      "type": "LABEL",
+      "key": "title.welcome",
+      "value": "Bienvenido!",
+      "description": "Label for "
+    },
+    {
+      "type": "ARRAY",
+      "key": "options_days_of_week",
+      "values": [
+        {
+          "type": "LABEL",
+          "value": "Domingo"
+        },
+        {
+          "type": "LABEL",
+          "value": "Lunes"
+        },
+        {
+          "type": "LABEL",
+          "value": "Martes"
+        },
+        {
+          "type": "LABEL",
+          "value": "Miercoles"
+        },
+        {
+          "type": "LABEL",
+          "value": "Jueves"
+        },
+        {
+          "type": "LABEL",
+          "value": "Viernes"
+        },
+        {
+          "type": "LABEL",
+          "value": "Sabado"
+        }
+
+      ],
+      "description": "Dias de la semana"
+    }
+  ]
+}
